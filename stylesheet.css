@@ -1,0 +1,14 @@
+div {
+    border-radius: 15px;
+    background-color: green;
+    text-align: center;
+    transition: background-color 3s ease;
+    font-size:40px;
+    padding:30px;
+    border:1px solid #ccc;
+    margin-top:20px;
+}
+
+.active {
+    background-color: blue;
+}
